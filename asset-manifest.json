@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/reverse-page-builder/static/css/main.f4114053.css",
-    "main.js": "/reverse-page-builder/static/js/main.1108844b.js",
+    "main.js": "/reverse-page-builder/static/js/main.eb2aa67e.js",
     "static/js/787.5d2ef531.chunk.js": "/reverse-page-builder/static/js/787.5d2ef531.chunk.js",
     "static/media/logo.svg": "/reverse-page-builder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/reverse-page-builder/index.html",
     "main.f4114053.css.map": "/reverse-page-builder/static/css/main.f4114053.css.map",
-    "main.1108844b.js.map": "/reverse-page-builder/static/js/main.1108844b.js.map",
+    "main.eb2aa67e.js.map": "/reverse-page-builder/static/js/main.eb2aa67e.js.map",
     "787.5d2ef531.chunk.js.map": "/reverse-page-builder/static/js/787.5d2ef531.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4114053.css",
-    "static/js/main.1108844b.js"
+    "static/js/main.eb2aa67e.js"
   ]
 }
